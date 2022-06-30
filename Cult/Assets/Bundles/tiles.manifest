@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1718052401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 281bb354cb6533bd3439ba4e8d0df863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee21785b03136898235b2cc9eaf49505
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tiles/water/Anim/AAA_0100.asset
+- Assets/Tiles/water/Anim/AAA_1000.asset
+- Assets/Tiles/water/Anim/AAA_1111.asset
+- Assets/Tiles/water/Anim/AAA_0001.asset
+- Assets/Tiles/water/Anim/AAA_0011.asset
+- Assets/Tiles/water/Anim/AAA_0101.asset
+- Assets/Tiles/water/Anim/AAA_1011.asset
+- Assets/Tiles/water/Anim/AAA_0110.asset
+- Assets/Tiles/water/Anim/AAA_1001.asset
+- Assets/Tiles/water/Anim/AAA_1101.asset
+- Assets/Tiles/land/abc_0000.asset
+- Assets/Tiles/land/abb_0000.asset
+- Assets/Tiles/water/Anim/AAA_0111.asset
+- Assets/Tiles/water/Anim/AAA_0010.asset
+- Assets/Tiles/water/Anim/AAA_1110.asset
+- Assets/Tiles/water/Anim/AAA_1100.asset
+- Assets/Tiles/water/AAA_0000.asset
+- Assets/Tiles/water/Anim/AAA_1010.asset
+Dependencies: []
